@@ -19,8 +19,8 @@ from userbot.events import register
 UNAPPROVED_MSG = (
     "`❌ANDA MEMASUKI KAWASAN IntanArap❌..`\n"
     "`•Tunggu Sampai @IntanArap Melihat Ini!.`\n"
-    "`🚫NOSPAM IN HERE! SPAM? I AM BLOCK YOU!!.`\n"
-    "`Terimakasih Semoga no spam mengerti.`\n\n"
+    "`🚫NOSPAM DI SINI!  SPAM?  AKU BLOK ANDA!!.`\n"
+    "`Terimakasih Semoga Anda Mengerti.`\n\n"
     "`*Ini adalah pesan otomatis`\n"
     "`💖IntanArap💖`")
 # =================================================================
