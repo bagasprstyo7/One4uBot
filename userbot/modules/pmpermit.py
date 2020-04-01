@@ -71,8 +71,8 @@ async def permitpm(event):
 
                 if COUNT_PM[event.chat_id] > 4:
                     await event.respond(
-                        "`kalo Dibilang Jangan Spam yak Jangan Spam Bngst .`\n"
-                        "`Kamu Saya Blok Otomasi Sampe IntanArap Online Dan membuka Blok Nya Kembali Makasih .`"
+                        "`Halah Ieu Budak Teu Ngarti Pisan?. .`\n"
+                        "`SIA NGGEUS DI BLOKIR KU AING, Tunggu We Sampe Aing Unblok!. .`"
                     )
 
                     try:
