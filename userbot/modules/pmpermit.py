@@ -71,9 +71,10 @@ async def permitpm(event):
 
                 if COUNT_PM[event.chat_id] > 4:
                     await event.respond(
-                        "`Halah Ieu Budak Teu Ngarti Pisan?. .`\n"
-                        "`SIA NGGEUS DI BLOKIR KU AING, Tunggu We Sampe Aing Unblok!. .`"
-                    )
+                        "`ANDA SUDAH MENGABAIKAN PERINGATAN ITUU!!.`\n"
+                        "`SAYA TIDAK SUKA ITU!! I AM BLOCK YOU!!❌`\n"
+                        "`Bye🤬`"
+                      )
 
                     try:
                         del COUNT_PM[event.chat_id]
